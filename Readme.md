@@ -39,16 +39,8 @@ My major expertise is in Java Programming Language.
 Before running this framework, ensure the following are installed and configured on your machine:
 
 1. **Java 11** — [Download JDK 11](https://adoptium.net/)
-   ```bash
-   java -version
-   # Expected: openjdk version "11.x.x"
-   ```
 
 2. **Apache Maven 3.x** — [Download Maven](https://maven.apache.org/download.cgi)
-   ```bash
-   mvn -version
-   # Expected: Apache Maven 3.x.x
-   ```
 
 3. **Browser Drivers** (for local execution only)
    - **Chrome**: ChromeDriver matching your Chrome version
