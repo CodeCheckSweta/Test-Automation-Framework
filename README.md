@@ -170,7 +170,7 @@ Extent Report + Logs
 - ✅ HTML test reporting
 - ✅ Maven-based execution
 - ✅ CI/CD-ready architecture
-
+<!--
 ## 🚀 Potential Enhancements
 
 - [ ] Add GitHub Actions workflow
@@ -181,7 +181,7 @@ Extent Report + Logs
 - [ ] Add richer test categorisation with TestNG groups
 - [ ] Add accessibility testing
 - [ ] Add API + UI hybrid workflows
-
+-->
 ## 👩‍💻 Author
 
 **Sweta Singh — Senior QA Engineer / SDET**
